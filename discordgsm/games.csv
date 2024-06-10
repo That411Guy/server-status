@@ -204,6 +204,7 @@ prey,Prey (2017),doom3,port=27719
 primalcarnage,Primal Carnage: Extinction (2015),source,port=7777;port_query=27015
 przomboid,Project Zomboid (2013),source,port=16261
 ps,Post Scriptum (2018),source,port=10027;port_query=10037
+pot,Path of Titans (2022),source,port_query=7778
 
 quake1,Quake 1: QuakeWorld (1996),quake1,port=27500
 quake2,Quake 2 (1997),quake2,port=27910
